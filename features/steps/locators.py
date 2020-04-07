@@ -1,0 +1,12 @@
+class locator(object):
+    navbar = "/html/body/div[1]/main/div/div[1]/div[1]"
+    slide = "/html/body/div[1]/main/div/div[2]/div[2]/div/div[2]"
+    avatar_plain = "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[3]/div[3]/img[1]"
+    button_register1 = "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[3]/span[2]/div[1]/button[1]"
+    button_register2 = "/html[1]/body[1]/div[4]/div[1]/div[2]/div[1]/form[1]/button[1]"
+    form_register = "/html[1]/body[1]/div[4]/div[1]"
+    input_email = "//*[@name='email']"
+    input_username = "//*[@name='username']"
+    input_password1 = "//*[@name='password']"
+    input_password2 = "//*[@name='confirmPassword']"
+    button_register2 = "/html[1]/body[1]/div[4]/div[1]/div[2]/div[1]/form[1]/button[1]"
